@@ -50,7 +50,7 @@ When something in my workflow is slow or repetitive, I build a tool to kill it. 
 <tr>
 <td width="50%" valign="top">
 
-**🔩 UDA Master**
+**🔩 UDA Master** Publicly Available
 ```
 Batch-edit User Defined Attributes
 across entire Tekla models in one pass.
@@ -91,7 +91,7 @@ in the Tekla viewport
 </td>
 <td width="50%" valign="top">
 
-**📊 KSS Thinker Pro**(In Final Stage For Release)
+**📊 KSS Thinker Pro**(In Final Stage For Release-Stay Tuned)
 ```
 Parses KSS/KISS fabrication files.
 Surfaces conflicts, phase mismatches
