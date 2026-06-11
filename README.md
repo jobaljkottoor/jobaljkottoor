@@ -50,7 +50,7 @@ When something in my workflow is slow or repetitive, I build a tool to kill it. 
 <tr>
 <td width="50%" valign="top">
 
-**🔩 UDA Master** Publicly Available
+**🔩 UDA Master** (Publicly Available)
 ```
 Batch-edit User Defined Attributes
 across entire Tekla models in one pass.
