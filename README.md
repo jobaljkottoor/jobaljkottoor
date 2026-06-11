@@ -63,7 +63,7 @@ Client presets · Rules engine · Undo
 </td>
 <td width="50%" valign="top">
 
-**🧪 JOK Test** *(in progress)*
+**🧪 Estimation Check** *(in progress-may get renamed?)*
 ```
 Pre-estimation validator — checks
 Assembly Main Part Names against
@@ -91,7 +91,7 @@ in the Tekla viewport
 </td>
 <td width="50%" valign="top">
 
-**📊 KSS Thinker Pro**
+**📊 KSS Thinker Pro**(In Final Stage For Release)
 ```
 Parses KSS/KISS fabrication files.
 Surfaces conflicts, phase mismatches
