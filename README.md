@@ -91,7 +91,7 @@ in the Tekla viewport
 </td>
 <td width="50%" valign="top">
 
-**📊 KSS Thinker Pro**(In Final Stage For Release-Stay Tuned)
+**📊 KSS Thinker Pro**(in final stage of release. Stay Tuned!?)
 ```
 Parses KSS/KISS fabrication files.
 Surfaces conflicts, phase mismatches
